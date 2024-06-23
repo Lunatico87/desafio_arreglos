@@ -6,7 +6,7 @@ const propiedades_venta = [
     ubicacion: '123 Luxury Lane, Prestige Suburb, CA 45678',
     habitaciones: 4,
     banos: 4,
-    costo: 5.000,
+    costo: 5000,
     smoke: false,
     pets: false
     },
@@ -18,7 +18,7 @@ const propiedades_venta = [
     ubicacion: '789 Mountain Road, Summit Peaks, CA 23456',
     habitaciones: 2,
     banos: 1,
-    costo: 1.200,
+    costo: 1200,
     smoke: true,
     pets: true
     },
@@ -30,7 +30,7 @@ const propiedades_venta = [
     ubicacion: '567 Skyline Avenue, Skyview City, CA 56789',
     habitaciones: 3,
     banos: 3,
-    costo: 4.500,
+    costo: 4500,
     smoke: false,
     pets: true
     },
@@ -42,7 +42,7 @@ const propiedades_venta = [
     ubicacion: '16 Panners Way, Queenstown, New Zealand',
     habitaciones: 6,
     banos: 5,
-    costo: 1.950,
+    costo: 1950,
     smoke: false,
     pets: true
     }
